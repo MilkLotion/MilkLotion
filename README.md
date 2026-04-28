@@ -1,10 +1,10 @@
 # 노현수 / Hyunsu Noh
 
-> 프론트엔드 개발자 · 풀스택 경험 보유 · React · TypeScript
+> 프론트엔드 개발자 · 풀스택 경험 보유 · React · TypeScript   
 
-곧 5년차 프론트엔드 개발자입니다.
-React + TypeScript 주력, Java/Spring Boot 풀스택 경험 3년.
-모던 디자인 시스템과 AI 활용 워크플로우 설계가 강점입니다.
+곧 5년차 프론트엔드 개발자입니다.   
+React + TypeScript 주력, Java/Spring Boot 풀스택 경험 3년.   
+모던 디자인 시스템과 AI 활용 워크플로우 설계가 강점입니다.   
 
 ---
 
